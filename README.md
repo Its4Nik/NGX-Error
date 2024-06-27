@@ -10,7 +10,7 @@ A Container Repository that provides custom nginx error pages directly for your 
 
 ## Contributing
 
-Do you want to share your own pack of various error screen?
+Do you want to share your own pack of various error screens?
 
 Well open up a pull request and I'll add it. 😃
 
@@ -34,4 +34,4 @@ Just like this:
 
 Just have a look at all available variants here:
 
-[Error-Pages](https://github.com/tarampampam/error-pages/tree/gh-pages)
+[Error-Pages](https://tarampampam.github.io/error-pages)
