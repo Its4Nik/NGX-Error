@@ -25,6 +25,6 @@ jobs:
           github-push-secret: ${{secrets.GITHUB_TOKEN}}
           docker-image-name: ngx-error-app-down
           docker-image-tag: latest
-          dockerfile-path: ./dockerfiles 
-          build-context: .
+          dockerfile-path: ./dockerfiles/
+          build-context: Dockerfile_app-down
           build-only: false
