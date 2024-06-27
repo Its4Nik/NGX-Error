@@ -26,5 +26,5 @@ jobs:
           docker-image-name: ngx-error-app-down
           docker-image-tag: latest
           dockerfile-path: ./dockerfiles 
-          build-context: Dockerfile_app-down
+          build-context: .
           build-only: false
