@@ -6,7 +6,14 @@ A Container Repository that provides custom nginx error pages directly for your 
 ## Road map
 
 - [ ] More image variants (Apache Webserer, ...)
-- [ ] Ability to add your own Images
+- [X] Ability to add your own Images
+
+## Contributing
+
+Do you want to share your own pack of various error screen?
+
+Well open up a pull request and I'll add it. 😃
+
 
 ## Usage
 
