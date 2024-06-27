@@ -20,7 +20,7 @@ jobs:
         name: Checkout repository
 
       - name: "GHCR Push: Build and push Docker image"
-        uses: Its4Nik/NGX-action@2.5.3
+        uses: Its4Nik/NGX-action@2.5.4
         with:
           github-push-secret: ${{secrets.GITHUB_TOKEN}}
           build-only: false
